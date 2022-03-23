@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "magnetic-guild-344406",
+  "private_key_id": "995fb0bf0ab38a1fe236d7befc5274ce93910d08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDk+vAQhfASvwuq\nV/eHSDV54YYrZ1gqaTlQJOZ8Q5d+Zsuc2Iuj3gUfjFlJWddtubZZAuzEqyjxR8ZW\ntuUWflyygdCaeBBr4XmZ8h5PflADNq/yOQgJl4Tna/FDzWtM1xdv2TMIu4g4LJWY\nCWfcx91J5FufX89VmCht/wBP2t99ubxQomxNd69zFa9FgjUd+XHUKIORR98okKSq\nJztyR0D3fgrR9vCAvRP9gQWSCKYn7TCfOi9kh8Lq75DeuO8XiXKF3qNfsC0ZEgUC\nvt4p5GR+iL6L6mk9v/CQjFkGJsD6SdQrgEp9qg5cU5wciyzuTO3ScD3UVwefbAts\nnJfSInnVAgMBAAECggEAAObjzJHAQ+lN5acs4daAnPnekjoHSWbP3jrcwajvRj3S\nd+FwJAkRXgrqrFaKZJrG6MnmvnTKPrBifbHIAZwJTu93zCDZ4ibmEWm/T8LKW2P+\nnV23FhV5gbv1o0sXl5Oj3hNxd0RsRq9Bmwgsc856gWiyxgXnjz7VUpnQjwcTFzpt\ng0vYRGgQuhrkDekqbbtwUEUD6U6QUh/M+FpmYoeQv2KV2fQChLbW5MrJe1tWaOPM\nLgbvMFueqHa6ceTsHCLtcLFndedrjwE6kdmUX7hunKEfkJsDazr0CwEhmos1Ek37\n6X193vv1dUtKk+9cq5Z5joZKbXWHqIZuFE3fpJ7JOQKBgQD01avTo7IfV+ndctPM\nvi0xS/VlgWBkk9+H+WORbI6589/VyaEk8hEzgEg0f4FmT4libryWeY+UAae5pvIa\nw3RdsDrxy3hulkaO6nLbGbe6izofY7xW+exeHPgfIpwXBAWvoIIg06/6heS8+SuB\nhVxMnxNSvodfYvBbZuyTPMfOCQKBgQDvbCxxrpfk8vj5VIPsWIvwKXC6L3+bnej3\nu/6u26ZYumWVKcATEbDr2JVaVlY5zqceKzLPzlEeYeoFfI6ZwlF//Ecef+xbHGQH\nW6sFqHwcvEge44JCngiwN6C8WJYJdS2WM9FCkDkp33EQjfXBOOsWR1IqxoQkljNo\nxa+hJIHAbQKBgHt67E8wJxzRvPxX9mQzoh1Tvu8zwgbX4Yv1hncIti8oxUJQj7pP\nb8d2snPvvrZ39MU1Ll4B7xzpfMsQXNiMrTq3L/NU+Gdl2S4pJkZEgTpPD8BXD90Z\n7VFF8Qna7bhZ6fg6zoZ53S5Pqx532K5ZMUTfkeJQf3vnLWwby8Myi17pAoGBAIfK\ngIKRlZDCxbcT2ibIKcYymr7eha+LJkCrnU0rQvN79HVfUpL+K6v4EO1Fnm326Q3R\nTmZSC+wBeKtX88D9VyARw3xm7XTXa1xI/3ycDJh3qSfrvUtvOlpHkqCAVchTb2GL\nThpElkdLdWMAQOwwDhV6qf2czgG6NrortOreO8EZAoGAN2d/geVmkJjSWnuLN3Sp\nqgW0DI23GWyUSazjnNj5KUu4mumE7ous5ADrv6yUQRHZh+l6qnoglL+p8GbAec6t\nT+JqKVTt1/nJqiMvM/ip7NAhWNPyyxNmmuGNb9n7/nohCb1QuvKSBRWdHuanJ/c2\n7ihJe5bqbPI9xY/m2Jd8vWg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wayne-601@magnetic-guild-344406.iam.gserviceaccount.com",
+  "client_id": "104842239590202065125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wayne-601%40magnetic-guild-344406.iam.gserviceaccount.com"
+}
